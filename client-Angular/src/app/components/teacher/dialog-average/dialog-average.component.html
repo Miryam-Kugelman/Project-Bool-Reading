@@ -1,0 +1,15 @@
+<div class="dialog">
+  <div dir=rtl mat-dialog-content>
+ 
+    <mat-form-field appearance="fill">
+      <mat-label>Ex:1-6</mat-label>
+      <input matInput [(ngModel)]= "data.level">
+    </mat-form-field>
+  </div>
+   
+  
+  <div mat-dialog-actions>
+    <button mat-button (click)="onNoClick()">ביטול</button>
+    <button mat-button [mat-dialog-close]= "data" cdkFocusInitial>אישור</button>
+  </div>
+</div>

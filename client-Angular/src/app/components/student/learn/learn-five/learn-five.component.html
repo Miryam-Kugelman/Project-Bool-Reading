@@ -1,0 +1,32 @@
+
+<mat-card class="card"> {{randomWord}} </mat-card>
+
+<div class="level">
+  רמה 5
+</div>
+
+<button class="listen" mat-raised-button  (click)= "listen()">שמיעת המילה
+  <mat-icon aria-hidden="false" aria-label="Example volume_up icon">volume_up</mat-icon>
+</button> 
+
+<button class="nextLevel" mat-raised-button disabled *ngIf = "num < 2+ numText "(click)= "nextLevel()">רמה הבאה</button>
+<button class="nextLevel" mat-raised-button *ngIf = "num == 2+ numText" (click)= "nextLevel()">רמה הבאה</button>
+<button class="learnLevel" mat-raised-button disabled *ngIf = "num < 2+ numText "(click)= "learnLevel()">חזרה ללימוד הרמה</button>
+<button class="learnLevel" mat-raised-button *ngIf = "num == 2+ numText" (click)= "learnLevel()">חזרה ללימוד הרמה</button>
+
+<div class="person">
+  <mat-icon aria-hidden="false" aria-label="Example person icon">person</mat-icon><br>
+  {{id}}
+</div>
+
+<button class="next" mat-raised-button *ngIf = "num < 2+ numText"  (click)= "nextWord()">
+  <mat-icon aria-hidden="false" aria-label="Example arrow_back_ios_new icon">arrow_back_ios_new</mat-icon>
+</button>
+
+<button class="next" mat-raised-button disabled *ngIf = "num == 2+ numText"  (click)= "nextWord()">
+  <mat-icon aria-hidden="false" aria-label="Example arrow_back_ios_new icon">arrow_back_ios_new</mat-icon>
+</button>
+  
+  <button class="exit" mat-raised-button (click) = "exit()">
+    <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon>
+  </button>

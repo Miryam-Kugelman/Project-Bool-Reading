@@ -1,0 +1,14 @@
+<div class= "main">
+    <mat-radio-group aria-label="Select an option">
+        <mat-radio-button class="radio1" value="1" (click) = "onclick(1)">משתמש חדש</mat-radio-button>
+        <mat-radio-button class="radio2" value="2"(click) = "onclick(2)">משתמש רשום</mat-radio-button>
+    </mat-radio-group>
+    
+    
+    <div *ngIf = "state == 1">
+        <app-new-user></app-new-user>
+    </div>
+    <div *ngIf = "state == 2">
+        <app-registered-user></app-registered-user>
+    </div>    
+</div>

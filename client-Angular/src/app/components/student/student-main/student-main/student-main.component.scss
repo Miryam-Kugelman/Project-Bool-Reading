@@ -1,0 +1,85 @@
+.exit{
+    position: fixed;
+    left: 0.5%;
+    top: 0.5%;
+    display: block;
+    width: 5%;
+    height: 7%;
+    font-size: xx-small;
+    font-weight: bolder;
+    background-color: #97bbbc;
+}
+
+.person{
+    position: fixed;
+    top :0.5%;
+    right: 2%;
+}
+.example-button-row{
+    font-size: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    
+
+    .bLearn1{
+        position: fixed;
+        top: 15.5%;
+        right: 10%;
+        margin: 3%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#97bbbc;
+    }
+    .bLearn2{
+        position: fixed;
+        top: 21.65%;
+        right: 40%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#90a6c4;
+    }
+    .bLearn3{
+        position: fixed;
+        top: 15.5%;
+        right: 64%;
+        margin: 3%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#97bbbc;
+    }
+    .bLearn4{
+        position: fixed;
+        top: 50%;
+        right: 10%;
+        margin: 3%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#90a6c4;
+    }
+    .bLearn5{
+        position: fixed;
+        top: 50%;
+        right: 37%;
+        margin: 3%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#97bbbc;
+    }
+    .bLearn6{
+        position: fixed;
+        top: 50%;
+        right: 64%;
+        margin: 3%;
+        width: 20%;
+        height: 10%;
+        overflow: auto;
+        background-color:#90a6c4;
+    }
+    
+}

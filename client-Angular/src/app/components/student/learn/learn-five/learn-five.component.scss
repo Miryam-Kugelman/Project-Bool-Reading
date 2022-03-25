@@ -1,0 +1,71 @@
+.exit{
+    position: fixed;
+    left: 0.5%;
+    top: 0.5%;
+    display: block;
+    width: 5%;
+    height: 7%;
+    font-size: xx-small;
+    font-weight: bolder;
+    background-color: #97bbbc;
+}
+.person{
+    position: fixed;
+    top :0.5%;
+    right: 2%;
+}
+
+
+.nextLevel{
+    position: fixed;
+    left: 5%;
+    bottom: 25%;
+    background-color: #90a6c4;
+    width: 15%;
+    height: 10%;
+}
+.learnLevel{
+    position: fixed;
+    left: 5%;
+    bottom: 10%;
+    background-color: #90a6c4;
+    width: 15%;
+    height: 10%;
+}
+
+.level{
+    position: fixed;
+    right: 2%;
+    bottom: 1.5%;
+}
+
+.card{
+    position: fixed;
+    width: 30%;
+    height: 30%;
+    top:25%;
+    right: 35%;
+    background-color: #97bbbc;
+    font-size: xx-large;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 120%;
+}
+.next{
+    top: 40%;
+    position: fixed;
+    width: 5%;
+    height: 10%;
+    left: 5%;
+    background-color: #97bbbc;
+}
+.listen{
+    position: fixed;
+    width: 13%;
+    height: 10%;
+    right: 10%;
+    top: 40%;
+    background-color: #97bbbc;
+}

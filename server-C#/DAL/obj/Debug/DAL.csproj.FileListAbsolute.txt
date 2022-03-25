@@ -1,0 +1,154 @@
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\BE.dll
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\פרויקט\DAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\פרויקט\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\פרויקט\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\פרויקט\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\1\Desktop\פרויקט\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\1\Desktop\פרויקט\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\BE.dll
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\BE.pdb
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.dll
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.pdb
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.Migrations.InitialModel.resources
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\1\Desktop\פרויקט\project\DAL\obj\Debug\DAL.Migrations.AddWordTable.resources
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\DAL.dll.config
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\DAL.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\DAL.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\BE.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\EntityFramework.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\BE.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\EntityFramework.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.Migrations.InitialModel.resources
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.Migrations.AddWordTable.resources
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\obj\Debug\DAL.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\Swashbuckle.Core.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.WebHost.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\WebActivatorEx.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.WebHost.xml
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Cors.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.Cors.dll
+D:\מירי\פרויקט כללי\פרויקט\project\DAL\bin\Debug\System.Web.Http.Cors.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\DAL.dll.config
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\DAL.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\DAL.pdb
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\BE.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\EntityFramework.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.Modules.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.SQLite.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.Wpf.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Dynamic.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Scripting.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Swashbuckle.Core.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Cors.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.Cors.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.WebHost.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\WebActivatorEx.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\BE.pdb
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\EntityFramework.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.Modules.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.SQLite.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\IronPython.Wpf.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Dynamic.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Scripting.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.Cors.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\bin\Debug\System.Web.Http.WebHost.xml
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.Migrations.InitialModel.resources
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.Migrations.AddWordTable.resources
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.dll
+D:\Miri\FinalProject\פרויקט\project\DAL\obj\Debug\DAL.pdb
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\DAL.dll.config
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\DAL.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\DAL.pdb
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\BE.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\EntityFramework.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.Modules.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.SQLite.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.Wpf.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Dynamic.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Scripting.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Swashbuckle.Core.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Cors.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.Cors.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.WebHost.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\WebActivatorEx.dll
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\BE.pdb
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\EntityFramework.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.Modules.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.SQLite.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\IronPython.Wpf.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Dynamic.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Scripting.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.Cors.xml
+D:\Miri\FinalProject\Project\project\DAL\bin\Debug\System.Web.Http.WebHost.xml
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.Migrations.InitialModel.resources
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.Migrations.AddWordTable.resources
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.dll
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.pdb
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.Migrations.updateWord.resources
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.Migrations.word.resources
+D:\Miri\FinalProject\Project\project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

@@ -1,0 +1,49 @@
+
+<mat-stepper [linear]="true" orientation="vertical" #stepper>
+    <mat-step [stepControl]="firstFormGroup" errorMessage="ערך ת.ז. חסר">
+        <form [formGroup]="firstFormGroup" >
+          <ng-template matStepLabel>ת.ז.</ng-template>
+          <mat-form-field class="example-full-width" appearance="fill">
+            <mat-label>ת.ז.</mat-label>
+            <input matInput #postalCode maxlength="9" placeholder="Ex. 999999999" formControlName="firstCtrl">
+            <mat-hint align="end">{{postalCode.value.length}} / 9</mat-hint>
+          </mat-form-field>
+
+        <div>
+          <button mat-button matStepperNext (click) = "clickID()">הבא</button>
+        </div>
+      </form>
+    </mat-step>
+    
+    <mat-step [stepControl]="secondFormGroup" errorMessage="ערך ססמא חסר">
+      <form [formGroup]="secondFormGroup">
+        <ng-template matStepLabel>סיסמא</ng-template>
+        <mat-form-field appearance="fill">
+          <mat-label>הכנס ססמא</mat-label>
+          <input matInput [type]="hide ? 'password' : 'text'" formControlName="secondCtrl">
+          <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+            <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>          </button>
+        </mat-form-field>
+        
+        <div>
+          <button mat-button matStepperPrevious>הקודם</button>
+          <button mat-button matStepperNext (click) = "clickPassword()">הבא</button>
+        </div>
+      </form>
+    </mat-step>
+
+    <mat-step>
+      <ng-template matStepLabel>סיום</ng-template>
+      <div>
+        <button mat-button matStepperPrevious>הקודם</button>
+        <button mat-button (click)="onclick()">התחבר</button>
+      </div>
+    </mat-step>
+  </mat-stepper>
+  <router-outlet></router-outlet>
+  
+
+ 
+ 
+
+

@@ -1,0 +1,16 @@
+<div class="dialog">
+  <div class="d" dir=rtl mat-dialog-content>
+    <p>הכנס ת.ז. של תלמיד</p>
+    <mat-form-field appearance="fill"> 
+      <mat-label>EX:999999999</mat-label>
+      <input matInput [(ngModel)]="dataAdd.addId">
+      
+    </mat-form-field>
+  </div>
+
+  <div mat-dialog-actions>
+    <button mat-button (click)= "onNoClick()">ביטול</button>
+    <button mat-button [mat-dialog-close]= "dataAdd" cdkFocusInitial>אישור</button>
+  </div>
+  
+</div>

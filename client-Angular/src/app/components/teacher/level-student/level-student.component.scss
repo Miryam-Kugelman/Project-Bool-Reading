@@ -1,0 +1,91 @@
+.AllPage {
+	display: grid;
+	grid-template-areas:
+    "Header Header Header"
+    "Body Body Left"
+    "Body Body Left";
+	grid-template-rows: 38% 38% 38%;
+	grid-template-columns: 33% 33% 33%;
+	grid-gap: 4px;
+}
+
+.Header {
+  grid-area: Header;
+  
+  .Add{
+    display:block;
+    width: 25%;
+    height: 10%;
+    margin-right: 23%;
+    margin-left: auto; 
+    margin-top: 5%;
+    position: fixed;
+    background-color: #97bbbc;
+  }
+  .AddScore{
+    display: block;
+    width: 25%;
+    height: 10%;
+    margin-right: 52%;
+    margin-left: auto; 
+    margin-top: 5%;
+    position: fixed;
+    background-color: #97bbbc;
+  }
+
+  .teacher{
+    position: fixed;
+    top :0.5%;
+    right: 2%;
+  }
+  .exit{
+    position: fixed;
+    left: 0.5%;
+    top: 0.5%;
+    display: block;
+    width: 5%;
+    height: 7%;
+    font-size: xx-small;
+    font-weight: bolder;
+    background-color: #97bbbc;
+  }
+}
+.Left {
+  grid-area: Left;
+  text-align: left;
+  top: 20%;
+  
+  section{
+    
+    .example-button-row{
+      top: 30%;
+      font-size: 7px;
+      margin-right: auto;
+      margin-left: auto;
+      position: fixed;
+      .b{
+        background-color: #97bbbc;
+        margin: 10px 50px ;
+        width: 70%;
+        height: 10%;
+        overflow: auto;
+      }  
+    }
+  }
+}
+.Body {
+    grid-area: Body;
+  
+    .button{
+      margin-top: 15%;
+      margin-right: 25%;
+      width: 25%;
+      background-color: #97bbbc;
+    }
+    .card{
+      margin-top: 3%;
+      margin-right: 30%;
+      width: 35%;
+      background-color: #97bbbc;
+    }
+}

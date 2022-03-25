@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25d0ea2b-ef17-4b07-acb8-d8317acddf1d": {
+      "ProjectGuid": "25d0ea2b-ef17-4b07-acb8-d8317acddf1d",
+      "DisplayName": "DAL",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "490a2f4d-3016-4f22-80cc-acec3e0da8b0": {
+      "ProjectGuid": "490a2f4d-3016-4f22-80cc-acec3e0da8b0",
+      "DisplayName": "BE",
+      "ColorIndex": 1
+    },
+    "21627390-0855-4e1c-9611-094159c0f8ce": {
+      "ProjectGuid": "21627390-0855-4e1c-9611-094159c0f8ce",
+      "DisplayName": "BL",
+      "ColorIndex": 2
+    },
+    "fe7e82a8-556e-4475-9bd8-f41a20e23d33": {
+      "ProjectGuid": "fe7e82a8-556e-4475-9bd8-f41a20e23d33",
+      "DisplayName": "SI-Project",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,24 @@
+
+<button class="exit" mat mat-raised-button (click) = "exit()">
+    <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon>
+  </button>
+  
+  <div class="person">
+    <mat-icon aria-hidden="false" aria-label="Example person icon">person</mat-icon><br>
+    {{id}}
+  </div>
+  
+  <div class="example-button-row">
+    
+    <button class="bLearn1" mat-raised-button  (click) = "onclick(11)">לימוד רמה 1</button>
+    <button class="bLearn2" mat-raised-button  (click) = "onclick(12)">לימוד רמה 2</button>
+    <button class="bLearn3" mat-raised-button  (click) = "onclick(13)">לימוד רמה 3</button>
+    <button class="bLearn4" mat-raised-button  (click) = "onclick(14)">לימוד רמה 4</button>
+    <button class="bLearn5" mat-raised-button  (click) = "onclick(15)">לימוד רמה 5</button>
+    <button class="bLearn6" mat-raised-button  (click) = "onclick(16)">לימוד רמה 6</button>
+  
+    
+    <router-outlet></router-outlet>
+  </div>
+   
+  

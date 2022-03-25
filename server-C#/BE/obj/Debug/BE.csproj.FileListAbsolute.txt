@@ -1,0 +1,82 @@
+C:\Users\1\Desktop\פרויקט\DAL\BE\bin\Debug\BE.dll
+C:\Users\1\Desktop\פרויקט\DAL\BE\bin\Debug\BE.pdb
+C:\Users\1\Desktop\פרויקט\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\1\Desktop\פרויקט\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\פרויקט\DAL\BE\obj\Debug\BE.dll
+C:\Users\1\Desktop\פרויקט\DAL\BE\obj\Debug\BE.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\BE.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\BE.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\מירי\פרויקט כללי\פרויקט\project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\מירי\פרויקט כללי\פרויקט\project\BE\obj\Debug\BE.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\obj\Debug\BE.pdb
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\Newtonsoft.Json.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Net.Http.Formatting.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Web.Cors.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Web.Http.Cors.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Web.Http.dll
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\Newtonsoft.Json.xml
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Net.Http.Formatting.xml
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Web.Http.xml
+D:\מירי\פרויקט כללי\פרויקט\project\BE\bin\Debug\System.Web.Http.Cors.xml
+D:\מירי\פרויקט כללי\פרויקט\project\BE\obj\Debug\BE.csproj.CopyComplete
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\BE.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\BE.pdb
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.Modules.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.SQLite.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.Wpf.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Dynamic.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Scripting.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Newtonsoft.Json.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Net.Http.Formatting.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Web.Cors.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Web.Http.Cors.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Web.Http.dll
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.Modules.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.SQLite.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\IronPython.Wpf.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Dynamic.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Scripting.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\Newtonsoft.Json.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Net.Http.Formatting.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Web.Http.xml
+D:\Miri\FinalProject\פרויקט\project\BE\bin\Debug\System.Web.Http.Cors.xml
+D:\Miri\FinalProject\פרויקט\project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\Miri\FinalProject\פרויקט\project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Miri\FinalProject\פרויקט\project\BE\obj\Debug\BE.csproj.CopyComplete
+D:\Miri\FinalProject\פרויקט\project\BE\obj\Debug\BE.dll
+D:\Miri\FinalProject\פרויקט\project\BE\obj\Debug\BE.pdb
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\BE.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\BE.pdb
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.Modules.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.SQLite.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.Wpf.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Dynamic.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Scripting.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Newtonsoft.Json.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Net.Http.Formatting.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Web.Cors.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Web.Http.Cors.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Web.Http.dll
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.Modules.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.SQLite.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\IronPython.Wpf.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Dynamic.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Scripting.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\Newtonsoft.Json.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Net.Http.Formatting.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Web.Http.xml
+D:\Miri\FinalProject\Project\project\BE\bin\Debug\System.Web.Http.Cors.xml
+D:\Miri\FinalProject\Project\project\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Miri\FinalProject\Project\project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Miri\FinalProject\Project\project\BE\obj\Debug\BE.csproj.CopyComplete
+D:\Miri\FinalProject\Project\project\BE\obj\Debug\BE.dll
+D:\Miri\FinalProject\Project\project\BE\obj\Debug\BE.pdb

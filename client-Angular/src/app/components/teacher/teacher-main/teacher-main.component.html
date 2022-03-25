@@ -1,0 +1,38 @@
+<div class="AllPage">
+    <div class="Left">
+  <!-- Form navigation buttons -->
+      <section>
+        <div class="example-button-row">
+          <button class = "b" mat-raised-button (click) = "onclick(1)">רשימת התלמידים + רמה</button><br>
+          <button class = "b" mat-raised-button (click) = "onclick(2)">הצגת ציון התלמיד ע"פ רמה</button><br>
+          <button class = "b" mat-raised-button (click) = "onclick(3)">הצגת תלמיד</button><br>
+          <button class = "b" mat-raised-button (click) = "onclick(4)">ממוצע לפי רמה</button><br>
+        </div>
+    </section>
+    </div>
+  
+    <div class="Header">
+      <div class="teacher">
+        <mat-icon aria-hidden="false" aria-label="Example school icon">school</mat-icon><br>
+        {{id}}
+      </div>
+      <!-- Back to home page -->
+        <button class="exit" mat mat-raised-button (click) = "exit()">
+          <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon>
+        </button>
+      <!-- Adding students -->
+      <div>
+        <button class= "Add" mat-raised-button (click) = "openDialogAdd()">הוספת תלמיד +</button>
+      </div>
+      <!-- Adding score in students -->
+      <div>
+        <button class= "AddScore" mat-raised-button (click) = "openDialogAddScore()">הוספת ציון לתלמיד +</button>
+      </div>
+    </div>
+  
+    <div class="Body"></div>
+  </div>
+  
+  
+  
+  <router-outlet></router-outlet>

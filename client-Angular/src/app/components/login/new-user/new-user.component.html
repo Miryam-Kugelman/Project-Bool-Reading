@@ -1,0 +1,90 @@
+
+
+ 
+<mat-stepper [linear]="true" orientation="vertical" #stepper >
+    <mat-step class="step" [stepControl]="firstFormGroup" errorMessage="ערך סטטוס חסר">
+      <form [formGroup]="firstFormGroup">
+        <ng-template matStepLabel>סטטוס</ng-template>
+        <mat-form-field appearance="fill">
+          <mat-label>בחר סטטוס</mat-label>
+          <mat-select disableRipple formControlName="firstCtrl">
+            <mat-option value="1" (click) = "onclick1(1)" >מורה</mat-option>
+            <mat-option value="2" (click) = "onclick1(2)" >תלמיד</mat-option>
+          </mat-select>
+        </mat-form-field>
+ 
+        <div>
+          <button mat-button matStepperNext >הבא</button>
+        </div>
+      </form>
+    </mat-step>
+ 
+     <mat-step [stepControl]="secondFormGroup" errorMessage="ערך ת.ז. חסר/ לא תקין">
+      <form [formGroup]="secondFormGroup" >
+        <ng-template matStepLabel>ת.ז.</ng-template>
+        <mat-form-field class="example-full-width" appearance="fill">
+          <mat-label>ת.ז.</mat-label>
+          <input matInput #postalCode maxlength="9" minlength="9" placeholder="Ex. 999999999" 
+                                                          formControlName="secondCtrl">
+          <mat-hint align="end">{{postalCode.value.length}} / 9</mat-hint>
+          
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious >הקודם</button>
+          <button mat-button matStepperNext (click) = "clickID()">הבא</button> 
+        </div>
+      </form>
+    </mat-step>
+    
+    <mat-step [stepControl]="thirdFormGroup" errorMessage="ערך סיסמא חסר/ לא תקין">
+      <form [formGroup]="thirdFormGroup">
+        <ng-template matStepLabel>סיסמא</ng-template>
+        <mat-form-field appearance="fill">
+          <mat-label>הכנס סיסמא</mat-label>
+          <input matInput [type]="hide ? 'password' : 'text'" formControlName="thirdCtrl">
+          <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+            <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+          </button>
+        </mat-form-field>
+        
+        <div>
+          <button mat-button matStepperPrevious>הקודם</button>
+          <button mat-button matStepperNext (click) = "clickPassword1()">הבא</button>
+        </div>
+      </form>
+    </mat-step>
+
+    <mat-step [stepControl]="fourFormGroup" errorMessage="ערך סיסמא לא תואם">
+      <form [formGroup]="fourFormGroup">
+        <ng-template matStepLabel>חזור על הסיסמא</ng-template>
+        <mat-form-field appearance="fill">
+          <mat-label>הכנס סיסמא</mat-label>
+          <input matInput [type]= "hide ? 'password' : 'text'" formControlName="fourCtrl">
+          <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+            <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+          </button>
+        </mat-form-field>
+        
+        <div>
+          <button mat-button matStepperPrevious>הקודם</button>
+          <button mat-button matStepperNext  (click) = "clickPassword2()">הבא</button>
+        </div>
+      </form>
+    </mat-step>
+
+    <mat-step>
+      <ng-template matStepLabel>סיום</ng-template>
+      <div>
+        <button mat-button matStepperPrevious>הקודם</button>
+        <button mat-button (click)= "onclick()">התחבר</button>
+      </div>
+    </mat-step>
+  </mat-stepper>
+  
+<router-outlet></router-outlet>
+
+
+
+ 
+ 
+

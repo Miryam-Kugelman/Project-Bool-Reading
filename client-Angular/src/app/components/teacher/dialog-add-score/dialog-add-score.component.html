@@ -1,0 +1,24 @@
+<div class="dialog">
+  <div dir=rtl mat-dialog-content>
+    <p>הכנס ת.ז. של תלמיד</p>
+    <mat-form-field appearance="fill">
+      <mat-label>Ex:999999999</mat-label>
+      <input matInput [(ngModel)]= "data.id">
+    </mat-form-field>
+    <p>הכנס ציון</p>
+    <mat-form-field appearance="fill">
+      <mat-label>Ex:100%</mat-label>
+      <input matInput [(ngModel)]= "data.score">
+    </mat-form-field>
+    <p>הכנס רמה</p>
+    <mat-form-field appearance="fill">
+      <mat-label>Ex:1-6</mat-label>
+      <input matInput [(ngModel)]= "data.level">
+    </mat-form-field>
+  </div>
+  
+  
+  <div mat-dialog-actions>
+    <button mat-button (click)="onNoClick()">ביטול</button>
+    <button mat-button [mat-dialog-close]= "data" cdkFocusInitial>אישור</button>
+  </div>
